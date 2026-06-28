@@ -1,13 +1,10 @@
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table cellpadding="0" cellspacing="0" width="100%" style="border:none;">
 <tr>
 <td valign="top" width="65%">
-
 <h2>Hey, I'm Hao (Hansel) 👋</h2>
-
 <b>B2B Growth Marketing · Product Marketing · Global Management × Psychology</b><br/>
 Taiwan · Singapore · UK · U.S.
-
-
+<br/><br/>
 How are you? I'm Hao!✨ 
 
 Or you can call me Hansel… or Handsome😏
@@ -21,12 +18,11 @@ My background spans B2B go-to-market strategy, multichannel campaign execution, 
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 </td>
-<td valign="top" align="right" width="35%">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/illustration.jpg" width="200" alt="Hao illustration"/>
+<td valign="middle" align="right" width="80%">
+  <img src="https://raw.githubusercontent.com/hanselhao/hanselhao/71dff7d0b41c99a917a2b41c08930ba30e67b7c2/%E7%84%A1%E6%A8%99%E9%A1%8C336_20260628122456.jpg" width="320" alt="Hao illustration"/>
 </td>
 </tr>
 </table>
-
 ---
 
 ## 📊 By the numbers
