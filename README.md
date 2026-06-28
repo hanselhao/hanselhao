@@ -38,76 +38,72 @@ My background spans B2B go-to-market strategy, multichannel campaign execution, 
 
 ## 🗂 Selected projects
 
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<table border="0" cellpadding="14" cellspacing="0" width="100%">
 <tr>
 <td width="50%" valign="top">
-
-### 🟦 B2B Go-to-market strategy — managed services · UK
-Scoped and delivered a full GTM analysis from scratch for a B2B managed services firm, synthesizing C-suite and external stakeholder interviews across Sales, Marketing, Finance, and Technology into a **3-year strategic roadmap** adopted by senior leadership. Translated ambiguous technical service offerings into structured positioning and partner recommendations.
-
-`B2B GTM` `Managed services` `C-suite interviews` `Strategic roadmap` `Competitive benchmarking`
-
-**Result:** Partner ecosystem expanded from 8 → 29 listings
-
+<h3>🟦 B2B Go-to-market strategy</h3>
+<b>Managed services · UK</b><br/><br/>
+Scoped and delivered a full GTM analysis from scratch for a B2B managed services firm, synthesizing C-suite and external stakeholder interviews across Sales, Marketing, Finance, and Technology into a <b>3-year strategic roadmap</b> adopted by senior leadership. Translated ambiguous technical service offerings into structured positioning and partner recommendations.
+<br/><br/>
+<code>B2B GTM</code> <code>Managed services</code> <code>C-suite interviews</code> <code>Strategic roadmap</code> <code>Competitive benchmarking</code>
+<br/><br/>
+<b>Result:</b> Partner ecosystem expanded from 8 → 29 listings
 </td>
 <td width="50%" valign="top">
-
-### 🟦 Product launch campaigns + AI automation — Web3 platform · Singapore / Global
+<h3>🟦 Product launch campaigns + AI automation</h3>
+<b>Web3 startup platform · Singapore / Global</b><br/><br/>
 Led multichannel feature launch campaigns for a global brand partnerships platform, translating complex product features into accessible messaging across blog, social, and EDM for 50+ global brand partners across multilingual markets. Automated creator partnership sourcing using Claude + Excel, cutting outreach turnaround from one week to one day.
-
-`Product marketing` `Multichannel campaigns` `AI workflows` `Partner acquisition` `EDM`
-
-**Result:** 12% social growth · 11% platform order volume increase · 1,000+ new user conversions
-
+<br/><br/>
+<code>Product marketing</code> <code>Multichannel campaigns</code> <code>AI workflows</code> <code>Partner acquisition</code> <code>EDM</code>
+<br/><br/>
+<b>Result:</b> 12% social growth · 11% platform order volume increase · 1,000+ new user conversions
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🟦 Demand generation + growth audit — entertainment retail · U.S.
+<h3>🟦 Demand generation + growth audit</h3>
+<b>Entertainment retail · U.S.</b><br/><br/>
 Conducted comprehensive performance analysis for a niche entertainment retailer, benchmarking 5 direct and 4 indirect competitors using SimilarWeb across engagement, traffic quality, and social referral. Designed A/B testing frameworks, built an SEO growth strategy targeting local search authority, and developed a paid media plan with audience segmentation across 3 distinct buyer personas.
-
-`Demand generation` `Competitive benchmarking` `A/B testing` `SEO` `Paid media` `Audience segmentation`
-
-**Result:** Full demand gen playbook delivered · [Portfolio →](https://drive.google.com/file/YOUR_PORTFOLIO_PDF_LINK_HERE)
-
+<br/><br/>
+<code>Demand generation</code> <code>Competitive benchmarking</code> <code>A/B testing</code> <code>SEO</code> <code>Paid media</code> <code>Audience segmentation</code>
+<br/><br/>
+<b>Result:</b> Full-stack growth playbook covering SEO, A/B testing, paid media, and social strategy · <a href="https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:688b5c28-5999-4157-ab67-620317e891bb">View deck →</a>
 </td>
 <td width="50%" valign="top">
-
-### 🟦 Partner program launch — digital entertainment · Taiwan / Global
+<h3>🟦 Partner program launch</h3>
+<b>Digital entertainment · Taiwan / South Korean</b><br/><br/>
 Launched an inaugural ambassador and referral partner program from zero for a South Korean digital entertainment platform expanding into Taiwan, coordinating campus partnerships and referral campaigns across multilingual markets. Managed full partner lifecycle from recruitment to performance tracking.
-
-`Partner program` `Go-to-market` `Multilingual markets` `Partner lifecycle` `KPI tracking`
-
-**Result:** 600+ new users · 2,500+ event participants · 23% partner retention uplift
-
+<br/><br/>
+<code>Partner program</code> <code>Go-to-market</code> <code>Multilingual markets</code> <code>Partner lifecycle</code> <code>KPI tracking</code>
+<br/><br/>
+<b>Result:</b> 600+ new users · 2,500+ event participants · 23% partner retention uplift
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🟦 Institutional content marketing — higher education · U.S.
+<h3>🟦 Institutional content marketing</h3>
+<b>Higher education · U.S.</b><br/><br/>
 Audited and rewrote content across 63 faculty profiles at a global business school, producing LinkedIn thought leadership content and brand copy optimized for a global executive audience. Balanced institutional brand guidelines with content designed to drive discoverability and follower growth.
-
-`Content marketing` `Brand messaging` `LinkedIn` `Executive audience` `Thought leadership`
-
-**Result:** 11% follower growth · strengthened institutional discoverability
-
+<br/><br/>
+<code>Content marketing</code> <code>Brand messaging</code> <code>LinkedIn</code> <code>Executive audience</code> <code>Thought leadership</code>
+<br/><br/>
+<b>Result:</b> 11% follower growth · strengthened institutional discoverability
 </td>
 <td width="50%" valign="top">
-
-### 🟦 Brand and content platform — career psychology · Taiwan
+<h3>🟦 Brand and content platform</h3>
+<b>Career psychology · Taiwan</b><br/><br/>
 Designed and launched a consumer-facing brand and content platform from scratch, building brand identity, information architecture, and multimedia storytelling to make workplace psychology concepts accessible to a mass audience. Self-produced all video content end-to-end.
-
-`Brand identity` `Content strategy` `Multimedia` `Consumer platform` `Video production`
-
-**Result:** Live platform · [View here](https://wecangraduate.wixsite.com/my-site)
-
+<br/><br/>
+<code>Brand identity</code> <code>Content strategy</code> <code>Multimedia</code> <code>Consumer platform</code> <code>Video production</code>
+<br/><br/>
+<b>Result:</b> Live platform · <a href="https://wecangraduate.wixsite.com/my-site">View here</a>
 </td>
 </tr>
 </table>
 
-> 🎨 **Full creative portfolio:** [View here]([https://drive.google.com/file/YOUR_PORTFOLIO_PDF_LINK_HERE](https://drive.google.com/file/d/13dcgGNlSw25S-vjEMgktKTxvBAHHRonQ/view?usp=sharing)) &nbsp;·&nbsp; 🎥 **Video and Reels:** [Google Drive]([https://drive.google.com/drive/folders/1T3DwOW0RCmgbsHMm7pvubvBGiz36r72c?usp=drive_link](https://drive.google.com/drive/u/1/folders/1T3DwOW0RCmgbsHMm7pvubvBGiz36r72c))
+<br/>
+
+🎨 **Full creative portfolio:** [View here](https://drive.google.com/file/d/13dcgGNlSw25S-vjEMgktKTxvBAHHRonQ/view?usp=sharing) &nbsp;·&nbsp; 🎥 **Video and Reels:** [Google Drive](https://drive.google.com/drive/folders/1T3DwOW0RCmgbsHMm7pvubvBGiz36r72c?usp=drive_link)
 
 ---
 
@@ -160,5 +156,5 @@ Designed and launched a consumer-facing brand and content platform from scratch,
 ---
 
 <div align="center">
-  <sub>✉️ hansel.shm@gmail.com · Open to B2B growth marketing and product marketing roles</sub>
+  🌞 Hao's your day? · Growth marketing in Global environment
 </div>
