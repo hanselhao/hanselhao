@@ -8,15 +8,18 @@
 Taiwan · Singapore · UK · U.S.
 
 
+How are you? I'm Hao!✨ 
+
+Or you can call me Hansel… or Handsome😏
+
 I specialize in translating complex products and services into messaging that enterprise buyers actually care about. What makes my approach a bit different: I studied counseling psychology before pivoting into global marketing, which means I think about what buyers <b>feel</b> before deciding what to say — and I use management frameworks to turn those insights into scalable systems. The result is campaigns and GTM strategies that are both emotionally resonant and structurally sound.
 
 My background spans B2B go-to-market strategy, multichannel campaign execution, partner program management, and AI-augmented workflows across media, tech, and professional services — across four countries and five industries.
 
 
-<a href="https://www.linkedin.com/in/hao-ming-shm">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/hao-ming-shm" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-
 </td>
 <td valign="top" align="right" width="35%">
   <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/illustration.jpg" width="200" alt="Hao illustration"/>
