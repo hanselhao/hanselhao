@@ -1,28 +1,25 @@
-<table cellpadding="0" cellspacing="0" width="100%" style="border:none;">
-<tr>
-<td valign="top" width="65%">
-<h2>Hey, I'm Hao (Hansel) 👋</h2>
-<b>B2B Growth Marketing · Product Marketing · Global Management × Psychology</b><br/>
+
+
+## Hey, I'm Hao (Hansel) 👋
+
+**B2B Growth Marketing · Product Marketing · Global Management × Psychology**
+<img src="https://raw.githubusercontent.com/hanselhao/hanselhao/71dff7d0b41c99a917a2b41c08930ba30e67b7c2/%E7%84%A1%E6%A8%99%E9%A1%8C336_20260628122456.jpg" width="280" align="right" alt="Hao illustration"/>
 Taiwan · Singapore · UK · U.S.
-<br/><br/>
-How are you? I'm Hao!✨ 
 
-Or you can call me Hansel… or Handsome😏
 
-I specialize in translating complex products and services into messaging that enterprise buyers actually care about. What makes my approach a bit different: I studied counseling psychology before pivoting into global marketing, which means I think about what buyers <b>feel</b> before deciding what to say — and I use management frameworks to turn those insights into scalable systems. The result is campaigns and GTM strategies that are both emotionally resonant and structurally sound.
+
+How are you? I'm Hao! ✨ Or you can call me Hansel… or Handsome 😏
+
+I specialize in translating complex products and services into messaging that enterprise buyers actually care about. What makes my approach a bit different: I studied counseling psychology before pivoting into global marketing, which means I think about what buyers **feel** before deciding what to say — and I use management frameworks to turn those insights into scalable systems. The result is campaigns and GTM strategies that are both emotionally resonant and structurally sound.
 
 My background spans B2B go-to-market strategy, multichannel campaign execution, partner program management, and AI-augmented workflows across media, tech, and professional services — across four countries and five industries.
-
 
 <a href="https://www.linkedin.com/in/hao-ming-shm" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-</td>
-<td valign="middle" align="right" width="80%">
-  <img src="https://raw.githubusercontent.com/hanselhao/hanselhao/71dff7d0b41c99a917a2b41c08930ba30e67b7c2/%E7%84%A1%E6%A8%99%E9%A1%8C336_20260628122456.jpg" width="320" alt="Hao illustration"/>
-</td>
-</tr>
-</table>
+
+<br clear="right"/>
+
 ---
 
 ## 📊 By the numbers
@@ -45,7 +42,7 @@ My background spans B2B go-to-market strategy, multichannel campaign execution, 
 <tr>
 <td width="50%" valign="top">
 
-### 🟦 B2B Go-to-market strategy | Managed cloud services (UK)
+### 🟦 B2B Go-to-market strategy — managed services · UK
 Scoped and delivered a full GTM analysis from scratch for a B2B managed services firm, synthesizing C-suite and external stakeholder interviews across Sales, Marketing, Finance, and Technology into a **3-year strategic roadmap** adopted by senior leadership. Translated ambiguous technical service offerings into structured positioning and partner recommendations.
 
 `B2B GTM` `Managed services` `C-suite interviews` `Strategic roadmap` `Competitive benchmarking`
@@ -55,7 +52,7 @@ Scoped and delivered a full GTM analysis from scratch for a B2B managed services
 </td>
 <td width="50%" valign="top">
 
-### 🟦 Product launch campaigns + AI automation | Web3 startup platform (Singapore / Global)
+### 🟦 Product launch campaigns + AI automation — Web3 platform · Singapore / Global
 Led multichannel feature launch campaigns for a global brand partnerships platform, translating complex product features into accessible messaging across blog, social, and EDM for 50+ global brand partners across multilingual markets. Automated creator partnership sourcing using Claude + Excel, cutting outreach turnaround from one week to one day.
 
 `Product marketing` `Multichannel campaigns` `AI workflows` `Partner acquisition` `EDM`
@@ -67,17 +64,17 @@ Led multichannel feature launch campaigns for a global brand partnerships platfo
 <tr>
 <td width="50%" valign="top">
 
-### 🟦 Demand generation + growth audit | Entertainment retail (U.S.)
+### 🟦 Demand generation + growth audit — entertainment retail · U.S.
 Conducted comprehensive performance analysis for a niche entertainment retailer, benchmarking 5 direct and 4 indirect competitors using SimilarWeb across engagement, traffic quality, and social referral. Designed A/B testing frameworks, built an SEO growth strategy targeting local search authority, and developed a paid media plan with audience segmentation across 3 distinct buyer personas.
 
 `Demand generation` `Competitive benchmarking` `A/B testing` `SEO` `Paid media` `Audience segmentation`
 
-**Result:** Full demand gen playbook delivered · [Portfolio →](YOUR_PORTFOLIO_LINK_HERE)
+**Result:** Full demand gen playbook delivered · [Portfolio →](https://drive.google.com/file/YOUR_PORTFOLIO_PDF_LINK_HERE)
 
 </td>
 <td width="50%" valign="top">
 
-### 🟦 Partner program launch | Digital entertainment (Taiwan / South Korean)
+### 🟦 Partner program launch — digital entertainment · Taiwan / Global
 Launched an inaugural ambassador and referral partner program from zero for a South Korean digital entertainment platform expanding into Taiwan, coordinating campus partnerships and referral campaigns across multilingual markets. Managed full partner lifecycle from recruitment to performance tracking.
 
 `Partner program` `Go-to-market` `Multilingual markets` `Partner lifecycle` `KPI tracking`
@@ -89,7 +86,7 @@ Launched an inaugural ambassador and referral partner program from zero for a So
 <tr>
 <td width="50%" valign="top">
 
-### 🟦 Institutional content marketing | Higher education (U.S.)
+### 🟦 Institutional content marketing — higher education · U.S.
 Audited and rewrote content across 63 faculty profiles at a global business school, producing LinkedIn thought leadership content and brand copy optimized for a global executive audience. Balanced institutional brand guidelines with content designed to drive discoverability and follower growth.
 
 `Content marketing` `Brand messaging` `LinkedIn` `Executive audience` `Thought leadership`
@@ -99,7 +96,7 @@ Audited and rewrote content across 63 faculty profiles at a global business scho
 </td>
 <td width="50%" valign="top">
 
-### 🟦 Brand and content platform | Career psychology (Taiwan)
+### 🟦 Brand and content platform — career psychology · Taiwan
 Designed and launched a consumer-facing brand and content platform from scratch, building brand identity, information architecture, and multimedia storytelling to make workplace psychology concepts accessible to a mass audience. Self-produced all video content end-to-end.
 
 `Brand identity` `Content strategy` `Multimedia` `Consumer platform` `Video production`
@@ -110,7 +107,7 @@ Designed and launched a consumer-facing brand and content platform from scratch,
 </tr>
 </table>
 
-> 🎨 **Full creative portfolio:** [View here](YOUR_PORTFOLIO_LINK_HERE) &nbsp;·&nbsp; 🎥 **Video and Reels:** [Google Drive](https://drive.google.com/drive/folders/1T3DwOW0RCmgbsHMm7pvubvBGiz36r72c?usp=drive_link)
+> 🎨 **Full creative portfolio:** [View here]([https://drive.google.com/file/YOUR_PORTFOLIO_PDF_LINK_HERE](https://drive.google.com/file/d/13dcgGNlSw25S-vjEMgktKTxvBAHHRonQ/view?usp=sharing)) &nbsp;·&nbsp; 🎥 **Video and Reels:** [Google Drive]([https://drive.google.com/drive/folders/1T3DwOW0RCmgbsHMm7pvubvBGiz36r72c?usp=drive_link](https://drive.google.com/drive/u/1/folders/1T3DwOW0RCmgbsHMm7pvubvBGiz36r72c))
 
 ---
 
@@ -163,5 +160,5 @@ Designed and launched a consumer-facing brand and content platform from scratch,
 ---
 
 <div align="center">
-  <sub> Hao's Your Day? · Growth in AI and Global enviroment! </sub>
+  <sub>✉️ hansel.shm@gmail.com · Open to B2B growth marketing and product marketing roles</sub>
 </div>
