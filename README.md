@@ -4,7 +4,7 @@
 
 **Marketing · Growth · Operations · Global Management × Psychology**
 <img src="https://raw.githubusercontent.com/hanselhao/hanselhao/71dff7d0b41c99a917a2b41c08930ba30e67b7c2/%E7%84%A1%E6%A8%99%E9%A1%8C336_20260628122456.jpg" width="280" align="right" alt="Hao illustration"/>
-Taiwan · Singapore · UK · U.S.
+<br>Taiwan · Singapore · UK · U.S.
 
 
 
