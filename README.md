@@ -2,7 +2,7 @@
 
 ## Hey, I'm Hao (Hansel) 👋
 
-**B2B Growth Marketing · Product Marketing · Global Management × Psychology**
+**Marketing · Growth · Operations · Global Management × Psychology**
 <img src="https://raw.githubusercontent.com/hanselhao/hanselhao/71dff7d0b41c99a917a2b41c08930ba30e67b7c2/%E7%84%A1%E6%A8%99%E9%A1%8C336_20260628122456.jpg" width="280" align="right" alt="Hao illustration"/>
 Taiwan · Singapore · UK · U.S.
 
@@ -10,9 +10,10 @@ Taiwan · Singapore · UK · U.S.
 
 How are you? I'm Hao! ✨ Or you can call me Hansel… or Handsome 😏
 
-I specialize in translating complex products and services into messaging that enterprise buyers actually care about. What makes my approach a bit different: I studied counseling psychology before pivoting into global marketing, which means I think about what buyers **feel** before deciding what to say — and I use management frameworks to turn those insights into scalable systems. The result is campaigns and GTM strategies that are both emotionally resonant and structurally sound.
+I build campaigns and systems that work. What makes my approach a bit different: I studied counseling psychology before pivoting into management, which means I think about how people feel before deciding what to say, and I use management frameworks and data to turn those instincts into structured, scalable marketing systems.
 
-My background spans B2B go-to-market strategy, multichannel campaign execution, partner program management, and AI-augmented workflows across media, tech, and professional services — across four countries and five industries.
+
+My background spans multi-channel campaign execution, partner program management, content strategy, and AI-augmented workflows across entertainment, Web3 B2C rewards fintech, and B2B tech, across 4 countries and multiple industries. I've launched campaigns from scratch, scaled what already existed, and always look for the version that performs a little better than the one before it.
 
 <a href="https://www.linkedin.com/in/hao-ming-shm" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
